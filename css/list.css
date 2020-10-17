@@ -1,0 +1,148 @@
+.shopping {
+  height: 132px;
+  width: 1000px;
+  margin: 0 auto;
+  position: relative; }
+
+.big-log {
+  height: 49px;
+  width: 200px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: url(../img/indeximg/icon.png) no-repeat 0 -531px; }
+
+.china {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  height: 40px;
+  width: 188px;
+  background: url(../img/indeximg/icon.png) no-repeat 0 -739px; }
+
+.NTS {
+  width: 27px;
+  height: 24px;
+  background: url(../img/indeximg/icon.png) no-repeat -173px -584px; }
+
+.bigimg {
+  height: 475px;
+  width: 1000px;
+  margin: 0 auto; }
+
+.center {
+  width: 1000px;
+  margin: 0 auto; }
+
+.center li {
+  float: left;
+  width: 70px;
+  padding: 6px 15px 5px 15px;
+  text-align: center;
+  height: 25px;
+  border-bottom: 1px solid #ededed;
+  margin: 10px 0px -1px 0px; }
+
+.center li:hover {
+  border-bottom: 1px solid #ededed; }
+
+.major {
+  margin: 110px auto;
+  width: 1000px; }
+
+.major img {
+  height: 100%; }
+
+.imgs-one, .imgs-two {
+  height: 490px;
+  width: 1000px;
+  position: relative;
+  margin-bottom: 20px; }
+
+.imgs-left, .imgs-right {
+  height: 490px;
+  width: 490px;
+  position: absolute; }
+
+.imgs-left {
+  margin: auto;
+  top: 0;
+  left: 0; }
+
+.imgs-right {
+  margin: auto;
+  top: 0;
+  right: 0; }
+
+.m1, .m2, .m3, .m4 {
+  height: 235px;
+  width: 235px;
+  position: absolute; }
+
+.m1 {
+  left: 0;
+  top: 0; }
+
+.m2 {
+  top: 0;
+  right: 0; }
+
+.m3 {
+  bottom: 0;
+  left: 0; }
+
+.m4 {
+  bottom: 0;
+  right: 0; }
+
+.ho {
+  color: transparent;
+  text-align: center;
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0; }
+
+.ho img {
+  height: 100%;
+  width: 100%; }
+
+.mark1 {
+  height: 490px;
+  width: 490px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  background-color: #000000; }
+
+.mark2 {
+  height: 235px;
+  width: 235px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  display: none; }
+
+.sp:hover .mark1 {
+  display: block;
+  color: #fff; }
+
+.zc:hover .mark2 {
+  display: block; }
+
+.diss {
+  display: none; }
+
+.zc:hover .ho {
+  display: block; }

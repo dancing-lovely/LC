@@ -1,0 +1,61 @@
+body {
+  background-color: #999; }
+
+.own {
+  width: 545px;
+  height: 580px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto; }
+
+.ic {
+  height: 106px;
+  width: 226px;
+  margin: 0 auto; }
+
+.ic img {
+  height: 100%; }
+
+.own span {
+  display: inline-block;
+  height: 50px;
+  width: 76px;
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #ffffff;
+  opacity: 0.9;
+  margin-left: 37px; }
+
+.t1 input, .psd input, .repsd input {
+  height: 50px;
+  width: 300px;
+  background-color: #ccc;
+  margin-top: 5px;
+  margin-left: 10px;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 14px; }
+
+.login-btn {
+  height: 50px;
+  width: 300px;
+  background-color: #111;
+  border: none;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  bottom: 190px;
+  color: #fff;
+  background: #25292e;
+  font-size: 18px; }
+
+.hint {
+  height: 20px;
+  width: 300px;
+  text-align: center; }

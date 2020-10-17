@@ -1,0 +1,18 @@
+[
+    {"text":"家具","img":"./img/indeximg/q1.png"},
+    {"text":"文具","img":"./img/indeximg/q2.png"},
+    {"text":"数码","img":"./img/indeximg/q3.png"},
+    {"text":"玩乐","img":"./img/indeximg/q4.png"},
+    {"text":"餐厨","img":"./img/indeximg/q5.png"},
+    {"text":"美食","img":"./img/indeximg/q6.png"},
+    {"text":"服装","img":"./img/indeximg/q7.png"},
+    {"text":"鞋包","img":"./img/indeximg/q8.png"},
+    {"text":"配饰","img":"./img/indeximg/q9.png"},
+    {"text":"美护","img":"./img/indeximg/q10.png"},
+    {"text":"出行","img":"./img/indeximg/q11.png"},
+    {"text":"图书","img":"./img/indeximg/q12.png"},
+    {"text":"艺术","img":"./img/indeximg/q13.png"},
+    {"text":"水具","img":"./img/indeximg/q14.png"},
+    {"text":"运动","img":"./img/indeximg/q15.png"},
+    {"text":"品牌","img":"./img/indeximg/q1.png"}
+]
